@@ -47,7 +47,9 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+
+>![{7A651C3D-D825-4834-B2D5-A0B271D434FA}](https://github.com/user-attachments/assets/08b0299d-c5ca-4900-b90a-56f28faac6ec)
+
 
 # Funcionalidades e Demonstrações das Sprints
 
