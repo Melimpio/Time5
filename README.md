@@ -1,5 +1,5 @@
 # Aprendizado por Projeto Integrado (API) - Template
-
+Neste trabalho, abordamos o planejamento e a construção de uma empresa de telefonia, com foco na oferta de planos telefônicos. A proposta é simular, de forma prática, como seria criar e organizar uma empresa real dentro desse setor, aplicando os conhecimentos adquiridos no curso de Gestão da Produção.
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
