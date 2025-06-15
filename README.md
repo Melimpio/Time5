@@ -41,7 +41,8 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 >Colocar aqui uma imagem da equipe com a logo do grupo.
 [Apresentação 3D.pptx](https://github.com/user-attachments/files/20748102/Apresentacao.3D.pptx)
-![{F5A9A589-C32E-46FD-BC71-6E7B8B23920A}](https://github.com/user-attachments/assets/c7e890b8-5709-4ba9-ad7e-f3ef805759ea)
+![{7A651C3D-D825-4834-B2D5-A0B271D434FA}](https://github.com/user-attachments/assets/64abe787-cecb-465e-8c49-63481b4f5af7)
+
 
 
 
