@@ -48,7 +48,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
->![{7A651C3D-D825-4834-B2D5-A0B271D434FA}](https://github.com/user-attachments/assets/08b0299d-c5ca-4900-b90a-56f28faac6ec)
+O principal objetivo do trabalho é proporcionar a oportunidade de aplicar os conhecimentos teóricos adquiridos no curso de Gestão da Produção Industrial na criação de uma empresa de telefonia. Pretende-se que desenvolvam um plano estratégico completo, que aborde desde a concepção da empresa até a operação de venda de planos telefônicos, considerando aspectos como estrutura física, gestão de processos, marketing, recursos humanos e atendimento ao cliente. O trabalho também visa nos preparar para atuar de forma crítica e eficiente no mercado de trabalho.
 
 
 # Funcionalidades e Demonstrações das Sprints
