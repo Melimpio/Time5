@@ -54,7 +54,10 @@ O principal objetivo do trabalho é proporcionar a oportunidade de aplicar os co
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
+>[Apresentação time cinco.pptx](https://github.com/user-attachments/files/20748223/Apresentacao.time.cinco.pptx)
+![{65617757-BFE6-49E0-BD70-B97A6D9CE2F2}](https://github.com/user-attachments/assets/17d81bf6-b0de-4788-8459-a8a66ebea469)
+
+>
 
 [![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
