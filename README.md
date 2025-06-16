@@ -98,8 +98,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Produto 
 > Foi usado a Análise SWOT e o Feito o Canvas para a EStrutura da Empresa, Assim descobrir pontos que precisavam melhorar. 
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+### Tecnológias Específicas/
 > Excel
 > Power Point
 > Copilot
