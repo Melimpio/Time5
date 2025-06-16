@@ -59,6 +59,9 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/PIIGPI-G5-20251/_layouts/15/Doc2.a
 # Objetivo do Projeto
 
 O principal objetivo do trabalho é proporcionar a oportunidade de aplicar os conhecimentos teóricos adquiridos no curso de Gestão da Produção Industrial na criação de uma empresa de telefonia. Pretende-se que desenvolvam um plano estratégico completo, que aborde desde a concepção da empresa até a operação de venda de planos telefônicos, considerando aspectos como estrutura física, gestão de processos, marketing, recursos humanos e atendimento ao cliente. O trabalho também visa nos preparar para atuar de forma crítica e eficiente no mercado de trabalho.
+Realizar uma análise SWOT;
+Realizar um modelo de negócios com CANVAS;
+Realizar um plano de negócios;
 
 
 # Funcionalidades e Demonstrações das Sprints
