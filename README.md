@@ -96,13 +96,18 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+> Foi usado a Análise SWOT e o Feito o Canvas para a EStrutura da Empresa, Assim descobrir pontos que precisavam melhorar. 
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+> Excel
+> Power Point
+> Copilot
+> Power BI
+> Canva
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+ O grupo desde o começo usou da tecnologia, para inovação do projeto e pela busca de novos metodos de soluções de problemas , que surgiram no decorrer do projeto. Adotando uma mentalidade proativa de todos os demais.
 
 # Cronograma das Sprints
 
