@@ -66,7 +66,9 @@ Realizar um plano de negócios;
 
 [![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
-## Sprint 3
+## Sprint 3![{0B2EF4B4-3E18-42D3-9199-113C79C9A1DA}](https://github.com/user-attachments/assets/b35a35f1-bf15-439![{5C885A73-3E0B-4FB2-A274-122E0960840F}](https://github.com/user-attachments/assets/5fa47539-c524-45a4-8a84-f4bfcfd5efa3)
+4-989b-daea295eaa09)
+
 >Colocar o vídeo da apresentação
 >
 
