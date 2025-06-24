@@ -26,14 +26,10 @@ Sprint | Previsão | Status| Histórico|
 |01 | 01/04/2025 | concluido| [Ver Relatório]([trabalho Metodologia relat.projeto.pdf](https://github.com/user-attachments/files/20889698/trabalho.Metodologia.relat.projeto.pdf)
 |02|  06/05/2025|Concluido |[Ver Relatório](https://github.com/Time-Cinco/Avalia-o-1-e-2-/blob/main/SPRINT%202%20COMPLETO.xlsx) | 
 |03| 10/06/2025 |Concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|17/06/2025 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
-# Micro Certificações
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 # Equipe
 >Colocar aqui uma imagem da equipe com a logo do grupo.
@@ -75,11 +71,6 @@ Realizar um plano de negócios;
 
 [![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
-
-## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Apresentação final (se necessario)
