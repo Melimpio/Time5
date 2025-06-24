@@ -96,9 +96,13 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ### Tecnológias Específicas/
 > Excel
+> 
 > Power Point
+> 
 > Copilot
+> 
 > Power BI
+> 
 > Canva
   
 ### Mindset Digital
