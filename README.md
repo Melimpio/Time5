@@ -68,6 +68,7 @@ Realizar um plano de negócios;
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
+>
 
 [![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
