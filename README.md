@@ -180,7 +180,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | ---------------------- | ------------- |
 | Proatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |Trabalho em Equipe  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|Colaboração|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Colaboração  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 |Pontualidade  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Criatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
