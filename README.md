@@ -77,6 +77,9 @@ Realizar um plano de negócios;
 Vídeo com a apresentação final da API do "semestre/ano"
 >Colocar o vídeo da apresentação
 
+https://github.com/user-attachments/assets/7ce610b9-c93b-4610-8480-feed89ffc210
+
+
 [![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
