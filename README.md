@@ -25,8 +25,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off |12/02/2025 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | 01/04/2025 | concluido| [Ver Relatório]([trabalho Metodologia relat.projeto.pdf](https://github.com/user-attachments/files/20889698/trabalho.Metodologia.relat.projeto.pdf)
 |02|  06/05/2025|Concluido |[Ver Relatório](https://github.com/Time-Cinco/Avalia-o-1-e-2-/blob/main/SPRINT%202%20COMPLETO.xlsx) | 
-|03| 10/06/2025 |Em desenvolvimento|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|03| 10/06/2025 |Concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
