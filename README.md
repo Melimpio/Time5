@@ -130,8 +130,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 1 Analise das Atividades 1 e 2
+
 2 SWOT da Empresa
+
 3 Canvas da Empresa
+
 4 Pesquisa inicial Preechida 
 
 
