@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |01 | 01/04/2025 | concluido| [Ver Relatório](https://github.com/user-attachments/files/20889698/trabalho.Metodologia.relat.projeto.pdf)
 |02|  06/05/2025|Concluido |[Ver Relatório](https://github.com/Time-Cinco/Avalia-o-1-e-2-/blob/main/SPRINT%202%20COMPLETO.xlsx) | 
 |03| 10/06/2025 |Concluido|[Ver Relatório]()|
-|Feira de Soluções|17/06/2025 |a fazer |[Ver Relatório](https://[APRESENTAÇÃO FEIRA DE SOLUÇÕES.pptx](https://github.com/user-attachments/files/20892254/APRESENTACAO.FEIRA.DE.SOLUCOES.pptx) | 
+|Feira de Soluções|17/06/2025 |Concluido|[Ver Relatório](https://github.com/user-attachments/files/20892254/APRESENTACAO.FEIRA.DE.SOLUCOES.pptx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
