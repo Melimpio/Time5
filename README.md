@@ -140,12 +140,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 2 - Desenvolvimento do Projeto
 1 Desenvolvimento do Planejamento Estrtégico da Empresa
+
 2 Propsta do DASHBOARD
+
       
 ## Sprint 3 - Implementação
 1 Entrega do Planejamento Estratégico
+
 2 Dashboard no Power BI
+
 3 Relatório Final
+
    
 
 
