@@ -77,6 +77,10 @@ Realizar um plano de negócios;
 
 ![{93603F39-4842-40F1-ACDA-19F1628B6C52}](https://github.com/user-attachments/assets/ef4bce84-9df2-413f-b164-e56d15e7ffca)
 
+
+https://app.powerbi.com/links/dwdN9aPN-3?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+
+
 ## Apresentação final 
 Vídeo com a apresentação final da API do "semestre/ano"
 
