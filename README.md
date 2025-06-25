@@ -93,15 +93,15 @@ https://github.com/user-attachments/assets/7ce610b9-c93b-4610-8480-feed89ffc210
 > Foi usado a Análise SWOT e o Feito o Canvas para a EStrutura da Empresa, Assim descobrir pontos que precisavam melhorar. 
 
 ### Tecnológias Específicas/
-> Excel
+> - Excel
 > 
-> Power Point
+> - Power Point
 > 
-> Copilot
+> - Copilot
 > 
-> Power BI
+> -  Power BI
 > 
-> Canva
+> - Canva
   
 ### Mindset Digital
  O grupo desde o começo usou da tecnologia, para inovação do projeto e pela busca de novos metodos de soluções de problemas , que surgiram no decorrer do projeto. Adotando uma mentalidade proativa de todos os demais.
