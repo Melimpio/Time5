@@ -116,27 +116,27 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 1 - Concepção
-1 Analise das Atividades 1 e 2
+1 - Analise das Atividades 1 e 2
 
-2 SWOT da Empresa
+2 - SWOT da Empresa
 
-3 Canvas da Empresa
+3 - Canvas da Empresa
 
-4 Pesquisa inicial Preechida 
+4 - Pesquisa inicial Preechida 
 
 
 ## Sprint 2 - Desenvolvimento do Projeto
-1 Desenvolvimento do Planejamento Estrtégico da Empresa
+1 - Desenvolvimento do Planejamento Estrtégico da Empresa
 
-2 Propsta do DASHBOARD
+2 - Propsta do DASHBOARD
 
       
 ## Sprint 3 - Implementação
-1 Entrega do Planejamento Estratégico
+1 - Entrega do Planejamento Estratégico
 
-2 Dashboard no Power BI
+2 - Dashboard no Power BI
 
-3 Relatório Final
+3 *- Relatório Final
 
    
 
